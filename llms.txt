@@ -1,16 +1,22 @@
 # Luiz Gonzaga Gomes Neto
 
-> Personal portfolio of Luiz Gonzaga Gomes Neto, Software Engineer based in Natal, Brazil.
+> Personal portfolio of Luiz Gonzaga Gomes Neto (Luiz Neto), Senior Software Developer based in Natal, Brazil.
 
 ## Profile
-I am a Software Engineer and Backend Developer specializing in Cloud Architecture, AI, and Distributed Systems. I offer business solutions such as Agentic Bots and High-conversion Lead Generation websites.
+Senior Software Developer at Linx, building C#/.NET microservices on Azure that handle millions of requests a day. Focus areas: high-volume distributed systems, AI-assisted engineering and AI agents, and secure software development. Pursuing a bachelor's degree in Artificial Intelligence (UFRN) and an MBA in Information Security.
+
+## Projects
+- JarvisBot: AI financial assistant on WhatsApp for doctors (MedInvest), built with NestJS microservices, Gemini, BullMQ, PostgreSQL and Docker.
+- MedInvest: lead-capture website and API (Express, TypeScript, Prisma, PostgreSQL, Meta Conversions API).
+- Delamain: harness for AI-assisted software development (https://github.com/luiznetojc/delamain).
 
 ## Links
 - [GitHub Profile](https://github.com/luiznetojc)
-- [LinkedIn Profile](https://www.linkedin.com/in/luiz-neto-307501140/)
+- [LinkedIn Profile](https://www.linkedin.com/in/luizneto-dev/)
 - [Email Contact](mailto:contato@luizneto.dev)
 
 ## Tech Stack
-- Go, Python, JavaScript, TypeScript
-- React, Next.js, Tailwind CSS
-- Kubernetes, Docker, AWS, Azure
+- C#, .NET, ASP.NET Core, Node.js, NestJS, TypeScript, Python, Go
+- Azure, AWS, Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps
+- SQL Server, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka
+- LLMs and AI agents
